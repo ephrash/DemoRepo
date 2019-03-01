@@ -1,1 +1,2 @@
 New file test4.txt it is being added
+New file test4.txt it is being added for the second time
