@@ -1,3 +1,0 @@
-New file test4.txt it is being added
-this line is added for testing the push command
-New file test4.txt it is being added for the second time
